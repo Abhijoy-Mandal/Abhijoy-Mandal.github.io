@@ -1,0 +1,10 @@
+{
+  "client_id": "https://abhijoy-mandal.github.io/paperkit/undermind-client.json",
+  "client_name": "paperkit literature retrieval",
+  "client_uri": "https://abhijoy-mandal.github.io/paperkit/",
+  "redirect_uris": ["http://127.0.0.1:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
